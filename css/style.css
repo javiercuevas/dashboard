@@ -1,0 +1,69 @@
+
+
+.light-gray-sm {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #666666;
+}
+
+.light-gray-md {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #666666;
+}
+
+.light-gray-lg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	color: #666666;
+}
+
+.white-md {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #ffffff;
+}
+
+.bar-heading-gray {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size: 11px;
+	font-weight: bold;
+	background:#f9f9f9;
+}
+
+.bar-heading-black {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size: 11px;
+	font-weight: bold;
+	background:#000000;
+}
+
+#dvLoading
+{
+   background:#000 url(../images/loader.gif) no-repeat center center;
+   height: 125px;
+   width: 125px;
+   position: fixed;
+   z-index: 1000;
+   left: 50%;
+   top: 33%;
+   margin: -25px 0 0 -25px;
+}
+
+.red-text-sm{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	color: #CC3300;
+}
+
+.red-text-md {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	color: #CC3300;
+}
